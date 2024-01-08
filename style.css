@@ -1,20 +1,35 @@
-.section-titles {
-    background-color: lightpink;
-
+.body {
+ font-family: "Comic Sans MS", "Lucida Grande", sans-serif;
+ background-color: #f6f6f670;
 }
 
-.size {
-    width: 200px;
-    height: 200px;
+.section-titles {
+   text-decoration: underline;
+   color: navy;
 }
 
 img {
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
+    padding: 30px;
     object-fit: contain;
     margin-left: auto ;
     margin-right: auto;
     display: block;
   }
 
-  
+.page-title {
+    text-align: center;
+    font-size: 30pt;
+}
+
+.header {
+    text-align: center;
+}
+
+.mktng-img {
+    height: 300px;
+    width: 100%;
+    padding: 20px;
+    margin: 1px;
+}
