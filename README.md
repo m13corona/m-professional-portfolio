@@ -17,6 +17,6 @@ https://m13corona.github.io/m-professional-portfolio/
 
 # Sources
 I looked up how to do certain things for this code and used the following webpages:
-https://www.w3schools.com/howto/howto_css_fading_buttons.asp
-https://www.w3schools.com/css/css3_images.asp
-https://www.w3schools.com/css/css_boxmodel.asp
+<li>https://www.w3schools.com/howto/howto_css_fading_buttons.asp</li>
+<li>https://www.w3schools.com/css/css3_images.asp</li>
+<li>https://www.w3schools.com/css/css_boxmodel.asp</li>
