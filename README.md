@@ -12,3 +12,4 @@ This is a webpage that encases the projects I have worked on until now. As I cre
 
 
 # Link to deployed application
+https://m13corona.github.io/m-professional-portfolio/
