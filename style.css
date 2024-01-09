@@ -1,11 +1,13 @@
 .body {
- font-family: "Comic Sans MS", "Lucida Grande", sans-serif;
+ font-family: "Optima", "Lucida Grande", sans-serif;
  background-color: #f6f6f670;
 }
 
 .section-titles {
    text-decoration: underline;
-   color: navy;
+   color: rgb(62, 81, 176);
+   
+
 }
 
 img {
@@ -27,9 +29,9 @@ img {
     text-align: center;
 }
 
-.mktng-img {
-    height: 300px;
-    width: 100%;
-    padding: 20px;
-    margin: 1px;
+
+.mktng-img:hover {
+    border:none
+    
+
 }
